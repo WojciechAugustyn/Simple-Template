@@ -1,1 +1,1 @@
-## HTML & CSS template one page website
+## HTML & CSS template - one page website
